@@ -1,0 +1,5 @@
+########## Start – Dostęp tylko z określonego adresu IP
+#Order allow,deny
+#Allow from 93.176.247.2
+#Allow from 93.176.250.10
+########## Koniec – Dostęp tylko z określonego adresu IP
